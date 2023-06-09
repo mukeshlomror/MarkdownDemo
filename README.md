@@ -9,7 +9,8 @@
 
 > CLI that generates beautiful README.md files.
 
-:house: ## Homepage
+:house:
+## Homepage
 
 **Prerequisites**
 ***
@@ -41,6 +42,7 @@ Feel free to check [issues page](https://github.com/features/issues)
 
 **Show your support**
 Give a :star: if this project helped you!
+
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/z3nth10n)
 
 ## Copyright
