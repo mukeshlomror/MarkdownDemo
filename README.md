@@ -9,13 +9,12 @@
 
 > CLI that generates beautiful README.md files.
 
-:house: ## ```diff
-+Homepage
-```
+:house: ## Homepage
+
 **Prerequisites**
 ***
-* npm >=5.5.0
-* npm >=9.3.0
+*npm >=5.5.0
+*npm >=9.3.0
 
 **Install**
 ***
