@@ -9,8 +9,7 @@
 
 > CLI that generates beautiful README.md files.
 
-:house:
-## Homepage
+## :house: Homepage
 
 **Prerequisites**
 ***
